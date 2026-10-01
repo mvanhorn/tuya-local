@@ -16,6 +16,9 @@ products:
   - id: yfhxw2yk6kyhs9rp
     manufacturer: Miboxer
     model: FUT036W
+  - id: ajca7eeodi9ibhek
+    manufacturer: Gledopto
+    model: gl-c-301w
 entities:
   - entity: light
     dps:
